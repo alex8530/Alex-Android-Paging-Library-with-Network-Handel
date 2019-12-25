@@ -1,0 +1,201 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\abaya\Desktop\Android-Jetpack-Architecture-Components-master\Android-Jetpack-Architecture-Components-master\Section 5\Paging\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\abaya\Desktop\Android-Jetpack-Architecture-Components-master\Android-Jetpack-Architecture-Components-master\Section 5\Paging\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\abaya\Desktop\Android-Jetpack-Architecture-Components-master\Android-Jetpack-Architecture-Components-master\Section 5\Paging\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\abaya\Desktop\Android-Jetpack-Architecture-Components-master\Android-Jetpack-Architecture-Components-master\Section 5\Paging\app\src\main\AndroidManifest.xml:2:1-23:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] C:\Users\abaya\.gradle\caches\transforms-1\files-1.1\lifecycle-extensions-2.0.0.aar\bf6d8f626cfc0ed83b47440cce6819bc\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\abaya\.gradle\caches\transforms-1\files-1.1\lifecycle-process-2.0.0.aar\f3f192547d6e636586d649ed06d9c13d\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] C:\Users\abaya\.gradle\caches\transforms-1\files-1.1\lifecycle-service-2.0.0.aar\59fbe34dd176514f671cc27bb536c9ad\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.paging:paging-runtime-ktx:2.1.0-rc01] C:\Users\abaya\.gradle\caches\transforms-1\files-1.1\paging-runtime-ktx-2.1.0-rc01.aar\a4cf44c2200c7f1a40cddd9bc55519ff\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.paging:paging-runtime:2.1.0-rc01] C:\Users\abaya\.gradle\caches\transforms-1\files-1.1\paging-runtime-2.1.0-rc01.aar\60ae47456b7cfbe187f2bedd600d4443\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\abaya\.gradle\caches\transforms-1\files-1.1\material-1.0.0.aar\b93976525e62754e735013a9564d093d\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\abaya\.gradle\caches\transforms-1\files-1.1\appcompat-1.0.2.aar\c94ccec29b65785bb43108f49950a393\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\abaya\.gradle\caches\transforms-1\files-1.1\fragment-1.0.0.aar\a6581d01a6d002e42c9cb32eac9b8c82\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\abaya\.gradle\caches\transforms-1\files-1.1\recyclerview-1.0.0.aar\aee5cd15dd6a944fd4055d64d76d811c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\abaya\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.0.0.aar\15348aa00c7a6102ab1c17b75429d227\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\abaya\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\3dd1f277db8d4e71ad98c233960c1a59\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\abaya\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\49fe68bd38284c7bf145396ad6a67bad\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\abaya\.gradle\caches\transforms-1\files-1.1\transition-1.0.0.aar\f13e35240878c4135d696f456a54ed72\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\abaya\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\c951f506f0b0e5a2dd781cca9db01ba9\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\abaya\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\96df3e094f218609a5d4a87f88b4a8cd\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\abaya\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0.aar\a0314c10fe777170f78a96cf064ebc85\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\abaya\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\0fd241e0113bcd207a4a97258daebc5f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\abaya\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\a3a5a715d97226c5314dbc6d0d809166\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\abaya\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\4cb0cde7e139a6d0c9e5ad733503287c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\abaya\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\cc7e50f13e0eb222b540a9400182efb8\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\abaya\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\6bf579c68b45141e89ea607dd36a92c8\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\abaya\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.0.1.aar\3bd9acab931063ce98468f61c94b58b5\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] C:\Users\abaya\.gradle\caches\transforms-1\files-1.1\core-1.0.1.aar\091f079bdac27f8be4c215cec9635a1c\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\abaya\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0.aar\74a19c5410d7483ca8f0c0749f2a77ab\AndroidManifest.xml:17:1-22:12
+MERGED from [com.kaopiz:kprogresshud:1.2.0] C:\Users\abaya\.gradle\caches\transforms-1\files-1.1\kprogresshud-1.2.0.aar\c46eac8ce8621d3d17d7bf857f8dcaaa\AndroidManifest.xml:2:1-15:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\abaya\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\3cadb6b0014744142558ceeb91fcb0cb\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\abaya\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\bebd9a2c6c19839576b5c06157be63b5\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\abaya\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\1494df0f3bd250970c9b4ed19a882f8c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\abaya\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.0.0.aar\e90ad892281f7f76bb0340a63462f05b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\abaya\.gradle\caches\transforms-1\files-1.1\cardview-1.0.0.aar\986735b0d582d02b6695e0fcea0c658c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\abaya\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\b9842da7a7a5ae2d9569f7b125f7caba\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\abaya\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\641d10289b5103cd360788e869d4267c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\abaya\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\74c709f0eae78312bfa925d2144c0a22\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\abaya\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\952b36d15a051853be0ed8eedeb661e7\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\abaya\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\87521d684ca36a9f86a6a305f034320e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\abaya\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\c8c988d26a7f97ba3b5eabd6b9ef7671\AndroidManifest.xml:17:1-25:12
+INJECTED from C:\Users\abaya\Desktop\Android-Jetpack-Architecture-Components-master\Android-Jetpack-Architecture-Components-master\Section 5\Paging\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\abaya\Desktop\Android-Jetpack-Architecture-Components-master\Android-Jetpack-Architecture-Components-master\Section 5\Paging\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\abaya\Desktop\Android-Jetpack-Architecture-Components-master\Android-Jetpack-Architecture-Components-master\Section 5\Paging\app\src\main\AndroidManifest.xml:2:1-23:12
+	package
+		ADDED from C:\Users\abaya\Desktop\Android-Jetpack-Architecture-Components-master\Android-Jetpack-Architecture-Components-master\Section 5\Paging\app\src\main\AndroidManifest.xml:3:11-44
+		INJECTED from C:\Users\abaya\Desktop\Android-Jetpack-Architecture-Components-master\Android-Jetpack-Architecture-Components-master\Section 5\Paging\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\abaya\Desktop\Android-Jetpack-Architecture-Components-master\Android-Jetpack-Architecture-Components-master\Section 5\Paging\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\abaya\Desktop\Android-Jetpack-Architecture-Components-master\Android-Jetpack-Architecture-Components-master\Section 5\Paging\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\abaya\Desktop\Android-Jetpack-Architecture-Components-master\Android-Jetpack-Architecture-Components-master\Section 5\Paging\app\src\main\AndroidManifest.xml:2:1-23:12
+		INJECTED from C:\Users\abaya\Desktop\Android-Jetpack-Architecture-Components-master\Android-Jetpack-Architecture-Components-master\Section 5\Paging\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\abaya\Desktop\Android-Jetpack-Architecture-Components-master\Android-Jetpack-Architecture-Components-master\Section 5\Paging\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\abaya\Desktop\Android-Jetpack-Architecture-Components-master\Android-Jetpack-Architecture-Components-master\Section 5\Paging\app\src\main\AndroidManifest.xml:2:1-23:12
+		INJECTED from C:\Users\abaya\Desktop\Android-Jetpack-Architecture-Components-master\Android-Jetpack-Architecture-Components-master\Section 5\Paging\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\abaya\Desktop\Android-Jetpack-Architecture-Components-master\Android-Jetpack-Architecture-Components-master\Section 5\Paging\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\abaya\Desktop\Android-Jetpack-Architecture-Components-master\Android-Jetpack-Architecture-Components-master\Section 5\Paging\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from C:\Users\abaya\Desktop\Android-Jetpack-Architecture-Components-master\Android-Jetpack-Architecture-Components-master\Section 5\Paging\app\src\main\AndroidManifest.xml:5:22-64
+application
+ADDED from C:\Users\abaya\Desktop\Android-Jetpack-Architecture-Components-master\Android-Jetpack-Architecture-Components-master\Section 5\Paging\app\src\main\AndroidManifest.xml:7:5-21:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] C:\Users\abaya\.gradle\caches\transforms-1\files-1.1\lifecycle-extensions-2.0.0.aar\bf6d8f626cfc0ed83b47440cce6819bc\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] C:\Users\abaya\.gradle\caches\transforms-1\files-1.1\lifecycle-extensions-2.0.0.aar\bf6d8f626cfc0ed83b47440cce6819bc\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\abaya\.gradle\caches\transforms-1\files-1.1\lifecycle-process-2.0.0.aar\f3f192547d6e636586d649ed06d9c13d\AndroidManifest.xml:22:5-28:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\abaya\.gradle\caches\transforms-1\files-1.1\lifecycle-process-2.0.0.aar\f3f192547d6e636586d649ed06d9c13d\AndroidManifest.xml:22:5-28:19
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\abaya\.gradle\caches\transforms-1\files-1.1\material-1.0.0.aar\b93976525e62754e735013a9564d093d\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\abaya\.gradle\caches\transforms-1\files-1.1\material-1.0.0.aar\b93976525e62754e735013a9564d093d\AndroidManifest.xml:22:5-20
+MERGED from [androidx.core:core:1.0.1] C:\Users\abaya\.gradle\caches\transforms-1\files-1.1\core-1.0.1.aar\091f079bdac27f8be4c215cec9635a1c\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] C:\Users\abaya\.gradle\caches\transforms-1\files-1.1\core-1.0.1.aar\091f079bdac27f8be4c215cec9635a1c\AndroidManifest.xml:22:5-89
+MERGED from [com.kaopiz:kprogresshud:1.2.0] C:\Users\abaya\.gradle\caches\transforms-1\files-1.1\kprogresshud-1.2.0.aar\c46eac8ce8621d3d17d7bf857f8dcaaa\AndroidManifest.xml:11:5-13:38
+MERGED from [com.kaopiz:kprogresshud:1.2.0] C:\Users\abaya\.gradle\caches\transforms-1\files-1.1\kprogresshud-1.2.0.aar\c46eac8ce8621d3d17d7bf857f8dcaaa\AndroidManifest.xml:11:5-13:38
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\abaya\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\c8c988d26a7f97ba3b5eabd6b9ef7671\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\abaya\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\c8c988d26a7f97ba3b5eabd6b9ef7671\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] C:\Users\abaya\.gradle\caches\transforms-1\files-1.1\core-1.0.1.aar\091f079bdac27f8be4c215cec9635a1c\AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from C:\Users\abaya\Desktop\Android-Jetpack-Architecture-Components-master\Android-Jetpack-Architecture-Components-master\Section 5\Paging\app\src\main\AndroidManifest.xml:12:13-39
+	android:label
+		ADDED from C:\Users\abaya\Desktop\Android-Jetpack-Architecture-Components-master\Android-Jetpack-Architecture-Components-master\Section 5\Paging\app\src\main\AndroidManifest.xml:10:13-45
+	android:roundIcon
+		ADDED from C:\Users\abaya\Desktop\Android-Jetpack-Architecture-Components-master\Android-Jetpack-Architecture-Components-master\Section 5\Paging\app\src\main\AndroidManifest.xml:11:13-58
+	android:icon
+		ADDED from C:\Users\abaya\Desktop\Android-Jetpack-Architecture-Components-master\Android-Jetpack-Architecture-Components-master\Section 5\Paging\app\src\main\AndroidManifest.xml:9:13-47
+	android:allowBackup
+		ADDED from C:\Users\abaya\Desktop\Android-Jetpack-Architecture-Components-master\Android-Jetpack-Architecture-Components-master\Section 5\Paging\app\src\main\AndroidManifest.xml:8:13-39
+	android:theme
+		ADDED from C:\Users\abaya\Desktop\Android-Jetpack-Architecture-Components-master\Android-Jetpack-Architecture-Components-master\Section 5\Paging\app\src\main\AndroidManifest.xml:13:13-44
+activity#com.paging.packt.paging.MainActivity
+ADDED from C:\Users\abaya\Desktop\Android-Jetpack-Architecture-Components-master\Android-Jetpack-Architecture-Components-master\Section 5\Paging\app\src\main\AndroidManifest.xml:14:9-20:20
+	android:name
+		ADDED from C:\Users\abaya\Desktop\Android-Jetpack-Architecture-Components-master\Android-Jetpack-Architecture-Components-master\Section 5\Paging\app\src\main\AndroidManifest.xml:14:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\abaya\Desktop\Android-Jetpack-Architecture-Components-master\Android-Jetpack-Architecture-Components-master\Section 5\Paging\app\src\main\AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\abaya\Desktop\Android-Jetpack-Architecture-Components-master\Android-Jetpack-Architecture-Components-master\Section 5\Paging\app\src\main\AndroidManifest.xml:16:17-68
+	android:name
+		ADDED from C:\Users\abaya\Desktop\Android-Jetpack-Architecture-Components-master\Android-Jetpack-Architecture-Components-master\Section 5\Paging\app\src\main\AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\abaya\Desktop\Android-Jetpack-Architecture-Components-master\Android-Jetpack-Architecture-Components-master\Section 5\Paging\app\src\main\AndroidManifest.xml:18:17-76
+	android:name
+		ADDED from C:\Users\abaya\Desktop\Android-Jetpack-Architecture-Components-master\Android-Jetpack-Architecture-Components-master\Section 5\Paging\app\src\main\AndroidManifest.xml:18:27-74
+uses-sdk
+INJECTED from C:\Users\abaya\Desktop\Android-Jetpack-Architecture-Components-master\Android-Jetpack-Architecture-Components-master\Section 5\Paging\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\abaya\Desktop\Android-Jetpack-Architecture-Components-master\Android-Jetpack-Architecture-Components-master\Section 5\Paging\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\abaya\Desktop\Android-Jetpack-Architecture-Components-master\Android-Jetpack-Architecture-Components-master\Section 5\Paging\app\src\main\AndroidManifest.xml
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] C:\Users\abaya\.gradle\caches\transforms-1\files-1.1\lifecycle-extensions-2.0.0.aar\bf6d8f626cfc0ed83b47440cce6819bc\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] C:\Users\abaya\.gradle\caches\transforms-1\files-1.1\lifecycle-extensions-2.0.0.aar\bf6d8f626cfc0ed83b47440cce6819bc\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\abaya\.gradle\caches\transforms-1\files-1.1\lifecycle-process-2.0.0.aar\f3f192547d6e636586d649ed06d9c13d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\abaya\.gradle\caches\transforms-1\files-1.1\lifecycle-process-2.0.0.aar\f3f192547d6e636586d649ed06d9c13d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] C:\Users\abaya\.gradle\caches\transforms-1\files-1.1\lifecycle-service-2.0.0.aar\59fbe34dd176514f671cc27bb536c9ad\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] C:\Users\abaya\.gradle\caches\transforms-1\files-1.1\lifecycle-service-2.0.0.aar\59fbe34dd176514f671cc27bb536c9ad\AndroidManifest.xml:20:5-44
+MERGED from [androidx.paging:paging-runtime-ktx:2.1.0-rc01] C:\Users\abaya\.gradle\caches\transforms-1\files-1.1\paging-runtime-ktx-2.1.0-rc01.aar\a4cf44c2200c7f1a40cddd9bc55519ff\AndroidManifest.xml:20:5-44
+MERGED from [androidx.paging:paging-runtime-ktx:2.1.0-rc01] C:\Users\abaya\.gradle\caches\transforms-1\files-1.1\paging-runtime-ktx-2.1.0-rc01.aar\a4cf44c2200c7f1a40cddd9bc55519ff\AndroidManifest.xml:20:5-44
+MERGED from [androidx.paging:paging-runtime:2.1.0-rc01] C:\Users\abaya\.gradle\caches\transforms-1\files-1.1\paging-runtime-2.1.0-rc01.aar\60ae47456b7cfbe187f2bedd600d4443\AndroidManifest.xml:20:5-44
+MERGED from [androidx.paging:paging-runtime:2.1.0-rc01] C:\Users\abaya\.gradle\caches\transforms-1\files-1.1\paging-runtime-2.1.0-rc01.aar\60ae47456b7cfbe187f2bedd600d4443\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\abaya\.gradle\caches\transforms-1\files-1.1\material-1.0.0.aar\b93976525e62754e735013a9564d093d\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\abaya\.gradle\caches\transforms-1\files-1.1\material-1.0.0.aar\b93976525e62754e735013a9564d093d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\abaya\.gradle\caches\transforms-1\files-1.1\appcompat-1.0.2.aar\c94ccec29b65785bb43108f49950a393\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\abaya\.gradle\caches\transforms-1\files-1.1\appcompat-1.0.2.aar\c94ccec29b65785bb43108f49950a393\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\abaya\.gradle\caches\transforms-1\files-1.1\fragment-1.0.0.aar\a6581d01a6d002e42c9cb32eac9b8c82\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\abaya\.gradle\caches\transforms-1\files-1.1\fragment-1.0.0.aar\a6581d01a6d002e42c9cb32eac9b8c82\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\abaya\.gradle\caches\transforms-1\files-1.1\recyclerview-1.0.0.aar\aee5cd15dd6a944fd4055d64d76d811c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\abaya\.gradle\caches\transforms-1\files-1.1\recyclerview-1.0.0.aar\aee5cd15dd6a944fd4055d64d76d811c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\abaya\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.0.0.aar\15348aa00c7a6102ab1c17b75429d227\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\abaya\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.0.0.aar\15348aa00c7a6102ab1c17b75429d227\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\abaya\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\3dd1f277db8d4e71ad98c233960c1a59\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\abaya\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\3dd1f277db8d4e71ad98c233960c1a59\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\abaya\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\49fe68bd38284c7bf145396ad6a67bad\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\abaya\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\49fe68bd38284c7bf145396ad6a67bad\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\abaya\.gradle\caches\transforms-1\files-1.1\transition-1.0.0.aar\f13e35240878c4135d696f456a54ed72\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\abaya\.gradle\caches\transforms-1\files-1.1\transition-1.0.0.aar\f13e35240878c4135d696f456a54ed72\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\abaya\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\c951f506f0b0e5a2dd781cca9db01ba9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\abaya\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\c951f506f0b0e5a2dd781cca9db01ba9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\abaya\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\96df3e094f218609a5d4a87f88b4a8cd\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\abaya\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\96df3e094f218609a5d4a87f88b4a8cd\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\abaya\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0.aar\a0314c10fe777170f78a96cf064ebc85\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\abaya\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0.aar\a0314c10fe777170f78a96cf064ebc85\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\abaya\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\0fd241e0113bcd207a4a97258daebc5f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\abaya\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\0fd241e0113bcd207a4a97258daebc5f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\abaya\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\a3a5a715d97226c5314dbc6d0d809166\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\abaya\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\a3a5a715d97226c5314dbc6d0d809166\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\abaya\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\4cb0cde7e139a6d0c9e5ad733503287c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\abaya\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\4cb0cde7e139a6d0c9e5ad733503287c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\abaya\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\cc7e50f13e0eb222b540a9400182efb8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\abaya\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\cc7e50f13e0eb222b540a9400182efb8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\abaya\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\6bf579c68b45141e89ea607dd36a92c8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\abaya\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\6bf579c68b45141e89ea607dd36a92c8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\abaya\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.0.1.aar\3bd9acab931063ce98468f61c94b58b5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\abaya\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.0.1.aar\3bd9acab931063ce98468f61c94b58b5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] C:\Users\abaya\.gradle\caches\transforms-1\files-1.1\core-1.0.1.aar\091f079bdac27f8be4c215cec9635a1c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] C:\Users\abaya\.gradle\caches\transforms-1\files-1.1\core-1.0.1.aar\091f079bdac27f8be4c215cec9635a1c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\abaya\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0.aar\74a19c5410d7483ca8f0c0749f2a77ab\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\abaya\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0.aar\74a19c5410d7483ca8f0c0749f2a77ab\AndroidManifest.xml:20:5-44
+MERGED from [com.kaopiz:kprogresshud:1.2.0] C:\Users\abaya\.gradle\caches\transforms-1\files-1.1\kprogresshud-1.2.0.aar\c46eac8ce8621d3d17d7bf857f8dcaaa\AndroidManifest.xml:7:5-9:41
+MERGED from [com.kaopiz:kprogresshud:1.2.0] C:\Users\abaya\.gradle\caches\transforms-1\files-1.1\kprogresshud-1.2.0.aar\c46eac8ce8621d3d17d7bf857f8dcaaa\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\abaya\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\3cadb6b0014744142558ceeb91fcb0cb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\abaya\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\3cadb6b0014744142558ceeb91fcb0cb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\abaya\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\bebd9a2c6c19839576b5c06157be63b5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\abaya\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\bebd9a2c6c19839576b5c06157be63b5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\abaya\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\1494df0f3bd250970c9b4ed19a882f8c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\abaya\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\1494df0f3bd250970c9b4ed19a882f8c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\abaya\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.0.0.aar\e90ad892281f7f76bb0340a63462f05b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\abaya\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.0.0.aar\e90ad892281f7f76bb0340a63462f05b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\abaya\.gradle\caches\transforms-1\files-1.1\cardview-1.0.0.aar\986735b0d582d02b6695e0fcea0c658c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\abaya\.gradle\caches\transforms-1\files-1.1\cardview-1.0.0.aar\986735b0d582d02b6695e0fcea0c658c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\abaya\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\b9842da7a7a5ae2d9569f7b125f7caba\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\abaya\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\b9842da7a7a5ae2d9569f7b125f7caba\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\abaya\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\641d10289b5103cd360788e869d4267c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\abaya\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\641d10289b5103cd360788e869d4267c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\abaya\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\74c709f0eae78312bfa925d2144c0a22\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\abaya\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\74c709f0eae78312bfa925d2144c0a22\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\abaya\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\952b36d15a051853be0ed8eedeb661e7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\abaya\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\952b36d15a051853be0ed8eedeb661e7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\abaya\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\87521d684ca36a9f86a6a305f034320e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\abaya\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\87521d684ca36a9f86a6a305f034320e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\abaya\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\c8c988d26a7f97ba3b5eabd6b9ef7671\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\abaya\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\c8c988d26a7f97ba3b5eabd6b9ef7671\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\abaya\Desktop\Android-Jetpack-Architecture-Components-master\Android-Jetpack-Architecture-Components-master\Section 5\Paging\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\abaya\Desktop\Android-Jetpack-Architecture-Components-master\Android-Jetpack-Architecture-Components-master\Section 5\Paging\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\abaya\Desktop\Android-Jetpack-Architecture-Components-master\Android-Jetpack-Architecture-Components-master\Section 5\Paging\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\abaya\Desktop\Android-Jetpack-Architecture-Components-master\Android-Jetpack-Architecture-Components-master\Section 5\Paging\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\abaya\Desktop\Android-Jetpack-Architecture-Components-master\Android-Jetpack-Architecture-Components-master\Section 5\Paging\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\abaya\Desktop\Android-Jetpack-Architecture-Components-master\Android-Jetpack-Architecture-Components-master\Section 5\Paging\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\abaya\Desktop\Android-Jetpack-Architecture-Components-master\Android-Jetpack-Architecture-Components-master\Section 5\Paging\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\abaya\Desktop\Android-Jetpack-Architecture-Components-master\Android-Jetpack-Architecture-Components-master\Section 5\Paging\app\src\main\AndroidManifest.xml
+provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\abaya\.gradle\caches\transforms-1\files-1.1\lifecycle-process-2.0.0.aar\f3f192547d6e636586d649ed06d9c13d\AndroidManifest.xml:23:9-27:43
+	android:authorities
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\abaya\.gradle\caches\transforms-1\files-1.1\lifecycle-process-2.0.0.aar\f3f192547d6e636586d649ed06d9c13d\AndroidManifest.xml:25:13-69
+	android:multiprocess
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\abaya\.gradle\caches\transforms-1\files-1.1\lifecycle-process-2.0.0.aar\f3f192547d6e636586d649ed06d9c13d\AndroidManifest.xml:27:13-40
+	android:exported
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\abaya\.gradle\caches\transforms-1\files-1.1\lifecycle-process-2.0.0.aar\f3f192547d6e636586d649ed06d9c13d\AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\abaya\.gradle\caches\transforms-1\files-1.1\lifecycle-process-2.0.0.aar\f3f192547d6e636586d649ed06d9c13d\AndroidManifest.xml:24:13-79
