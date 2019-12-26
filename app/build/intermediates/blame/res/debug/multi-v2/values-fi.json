@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\abaya\\Desktop\\Android-Jetpack-Architecture-Components-master\\Android-Jetpack-Architecture-Components-master\\Section 5\\Paging\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-fi\\values-fi.xml",
+            "outputFile": "D:\\MyAndroidProjects\\Android Paging with Network Handel\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-fi\\values-fi.xml",
             "map": [
                 {
                     "source": "C:\\Users\\abaya\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.2.aar\\c94ccec29b65785bb43108f49950a393\\res\\values-fi\\values-fi.xml",

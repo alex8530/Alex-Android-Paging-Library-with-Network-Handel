@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\abaya\Desktop\Android-Jetpack-Architecture-Components-master\Android-Jetpack-Architecture-Components-master\Section 5\Paging\app\src\main\AndroidManifest.xml:2:1-23:12
-INJECTED from C:\Users\abaya\Desktop\Android-Jetpack-Architecture-Components-master\Android-Jetpack-Architecture-Components-master\Section 5\Paging\app\src\main\AndroidManifest.xml:2:1-23:12
-INJECTED from C:\Users\abaya\Desktop\Android-Jetpack-Architecture-Components-master\Android-Jetpack-Architecture-Components-master\Section 5\Paging\app\src\main\AndroidManifest.xml:2:1-23:12
-INJECTED from C:\Users\abaya\Desktop\Android-Jetpack-Architecture-Components-master\Android-Jetpack-Architecture-Components-master\Section 5\Paging\app\src\main\AndroidManifest.xml:2:1-23:12
+ADDED from D:\MyAndroidProjects\Android Paging with Network Handel\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from D:\MyAndroidProjects\Android Paging with Network Handel\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from D:\MyAndroidProjects\Android Paging with Network Handel\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from D:\MyAndroidProjects\Android Paging with Network Handel\app\src\main\AndroidManifest.xml:2:1-23:12
 MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] C:\Users\abaya\.gradle\caches\transforms-1\files-1.1\lifecycle-extensions-2.0.0.aar\bf6d8f626cfc0ed83b47440cce6819bc\AndroidManifest.xml:17:1-25:12
 MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\abaya\.gradle\caches\transforms-1\files-1.1\lifecycle-process-2.0.0.aar\f3f192547d6e636586d649ed06d9c13d\AndroidManifest.xml:17:1-30:12
 MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] C:\Users\abaya\.gradle\caches\transforms-1\files-1.1\lifecycle-service-2.0.0.aar\59fbe34dd176514f671cc27bb536c9ad\AndroidManifest.xml:17:1-22:12
@@ -40,29 +40,29 @@ MERGED from [androidx.print:print:1.0.0] C:\Users\abaya\.gradle\caches\transform
 MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\abaya\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\952b36d15a051853be0ed8eedeb661e7\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\abaya\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\87521d684ca36a9f86a6a305f034320e\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\abaya\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\c8c988d26a7f97ba3b5eabd6b9ef7671\AndroidManifest.xml:17:1-25:12
-INJECTED from C:\Users\abaya\Desktop\Android-Jetpack-Architecture-Components-master\Android-Jetpack-Architecture-Components-master\Section 5\Paging\app\src\main\AndroidManifest.xml:2:1-23:12
-INJECTED from C:\Users\abaya\Desktop\Android-Jetpack-Architecture-Components-master\Android-Jetpack-Architecture-Components-master\Section 5\Paging\app\src\main\AndroidManifest.xml:2:1-23:12
-INJECTED from C:\Users\abaya\Desktop\Android-Jetpack-Architecture-Components-master\Android-Jetpack-Architecture-Components-master\Section 5\Paging\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from D:\MyAndroidProjects\Android Paging with Network Handel\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from D:\MyAndroidProjects\Android Paging with Network Handel\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from D:\MyAndroidProjects\Android Paging with Network Handel\app\src\main\AndroidManifest.xml:2:1-23:12
 	package
-		ADDED from C:\Users\abaya\Desktop\Android-Jetpack-Architecture-Components-master\Android-Jetpack-Architecture-Components-master\Section 5\Paging\app\src\main\AndroidManifest.xml:3:11-44
-		INJECTED from C:\Users\abaya\Desktop\Android-Jetpack-Architecture-Components-master\Android-Jetpack-Architecture-Components-master\Section 5\Paging\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\abaya\Desktop\Android-Jetpack-Architecture-Components-master\Android-Jetpack-Architecture-Components-master\Section 5\Paging\app\src\main\AndroidManifest.xml
+		ADDED from D:\MyAndroidProjects\Android Paging with Network Handel\app\src\main\AndroidManifest.xml:3:11-44
+		INJECTED from D:\MyAndroidProjects\Android Paging with Network Handel\app\src\main\AndroidManifest.xml
+		INJECTED from D:\MyAndroidProjects\Android Paging with Network Handel\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\abaya\Desktop\Android-Jetpack-Architecture-Components-master\Android-Jetpack-Architecture-Components-master\Section 5\Paging\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\abaya\Desktop\Android-Jetpack-Architecture-Components-master\Android-Jetpack-Architecture-Components-master\Section 5\Paging\app\src\main\AndroidManifest.xml:2:1-23:12
-		INJECTED from C:\Users\abaya\Desktop\Android-Jetpack-Architecture-Components-master\Android-Jetpack-Architecture-Components-master\Section 5\Paging\app\src\main\AndroidManifest.xml
+		INJECTED from D:\MyAndroidProjects\Android Paging with Network Handel\app\src\main\AndroidManifest.xml
+		ADDED from D:\MyAndroidProjects\Android Paging with Network Handel\app\src\main\AndroidManifest.xml:2:1-23:12
+		INJECTED from D:\MyAndroidProjects\Android Paging with Network Handel\app\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from C:\Users\abaya\Desktop\Android-Jetpack-Architecture-Components-master\Android-Jetpack-Architecture-Components-master\Section 5\Paging\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\abaya\Desktop\Android-Jetpack-Architecture-Components-master\Android-Jetpack-Architecture-Components-master\Section 5\Paging\app\src\main\AndroidManifest.xml:2:1-23:12
-		INJECTED from C:\Users\abaya\Desktop\Android-Jetpack-Architecture-Components-master\Android-Jetpack-Architecture-Components-master\Section 5\Paging\app\src\main\AndroidManifest.xml
+		INJECTED from D:\MyAndroidProjects\Android Paging with Network Handel\app\src\main\AndroidManifest.xml
+		ADDED from D:\MyAndroidProjects\Android Paging with Network Handel\app\src\main\AndroidManifest.xml:2:1-23:12
+		INJECTED from D:\MyAndroidProjects\Android Paging with Network Handel\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\abaya\Desktop\Android-Jetpack-Architecture-Components-master\Android-Jetpack-Architecture-Components-master\Section 5\Paging\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from D:\MyAndroidProjects\Android Paging with Network Handel\app\src\main\AndroidManifest.xml:2:11-69
 uses-permission#android.permission.INTERNET
-ADDED from C:\Users\abaya\Desktop\Android-Jetpack-Architecture-Components-master\Android-Jetpack-Architecture-Components-master\Section 5\Paging\app\src\main\AndroidManifest.xml:5:5-67
+ADDED from D:\MyAndroidProjects\Android Paging with Network Handel\app\src\main\AndroidManifest.xml:5:5-67
 	android:name
-		ADDED from C:\Users\abaya\Desktop\Android-Jetpack-Architecture-Components-master\Android-Jetpack-Architecture-Components-master\Section 5\Paging\app\src\main\AndroidManifest.xml:5:22-64
+		ADDED from D:\MyAndroidProjects\Android Paging with Network Handel\app\src\main\AndroidManifest.xml:5:22-64
 application
-ADDED from C:\Users\abaya\Desktop\Android-Jetpack-Architecture-Components-master\Android-Jetpack-Architecture-Components-master\Section 5\Paging\app\src\main\AndroidManifest.xml:7:5-21:19
+ADDED from D:\MyAndroidProjects\Android Paging with Network Handel\app\src\main\AndroidManifest.xml:7:5-21:19
 MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] C:\Users\abaya\.gradle\caches\transforms-1\files-1.1\lifecycle-extensions-2.0.0.aar\bf6d8f626cfc0ed83b47440cce6819bc\AndroidManifest.xml:22:5-23:19
 MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] C:\Users\abaya\.gradle\caches\transforms-1\files-1.1\lifecycle-extensions-2.0.0.aar\bf6d8f626cfc0ed83b47440cce6819bc\AndroidManifest.xml:22:5-23:19
 MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\abaya\.gradle\caches\transforms-1\files-1.1\lifecycle-process-2.0.0.aar\f3f192547d6e636586d649ed06d9c13d\AndroidManifest.xml:22:5-28:19
@@ -78,35 +78,35 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\ab
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.0.1] C:\Users\abaya\.gradle\caches\transforms-1\files-1.1\core-1.0.1.aar\091f079bdac27f8be4c215cec9635a1c\AndroidManifest.xml:22:18-86
 	android:supportsRtl
-		ADDED from C:\Users\abaya\Desktop\Android-Jetpack-Architecture-Components-master\Android-Jetpack-Architecture-Components-master\Section 5\Paging\app\src\main\AndroidManifest.xml:12:13-39
+		ADDED from D:\MyAndroidProjects\Android Paging with Network Handel\app\src\main\AndroidManifest.xml:12:13-39
 	android:label
-		ADDED from C:\Users\abaya\Desktop\Android-Jetpack-Architecture-Components-master\Android-Jetpack-Architecture-Components-master\Section 5\Paging\app\src\main\AndroidManifest.xml:10:13-45
+		ADDED from D:\MyAndroidProjects\Android Paging with Network Handel\app\src\main\AndroidManifest.xml:10:13-45
 	android:roundIcon
-		ADDED from C:\Users\abaya\Desktop\Android-Jetpack-Architecture-Components-master\Android-Jetpack-Architecture-Components-master\Section 5\Paging\app\src\main\AndroidManifest.xml:11:13-58
+		ADDED from D:\MyAndroidProjects\Android Paging with Network Handel\app\src\main\AndroidManifest.xml:11:13-58
 	android:icon
-		ADDED from C:\Users\abaya\Desktop\Android-Jetpack-Architecture-Components-master\Android-Jetpack-Architecture-Components-master\Section 5\Paging\app\src\main\AndroidManifest.xml:9:13-47
+		ADDED from D:\MyAndroidProjects\Android Paging with Network Handel\app\src\main\AndroidManifest.xml:9:13-47
 	android:allowBackup
-		ADDED from C:\Users\abaya\Desktop\Android-Jetpack-Architecture-Components-master\Android-Jetpack-Architecture-Components-master\Section 5\Paging\app\src\main\AndroidManifest.xml:8:13-39
+		ADDED from D:\MyAndroidProjects\Android Paging with Network Handel\app\src\main\AndroidManifest.xml:8:13-39
 	android:theme
-		ADDED from C:\Users\abaya\Desktop\Android-Jetpack-Architecture-Components-master\Android-Jetpack-Architecture-Components-master\Section 5\Paging\app\src\main\AndroidManifest.xml:13:13-44
+		ADDED from D:\MyAndroidProjects\Android Paging with Network Handel\app\src\main\AndroidManifest.xml:13:13-44
 activity#com.paging.packt.paging.MainActivity
-ADDED from C:\Users\abaya\Desktop\Android-Jetpack-Architecture-Components-master\Android-Jetpack-Architecture-Components-master\Section 5\Paging\app\src\main\AndroidManifest.xml:14:9-20:20
+ADDED from D:\MyAndroidProjects\Android Paging with Network Handel\app\src\main\AndroidManifest.xml:14:9-20:20
 	android:name
-		ADDED from C:\Users\abaya\Desktop\Android-Jetpack-Architecture-Components-master\Android-Jetpack-Architecture-Components-master\Section 5\Paging\app\src\main\AndroidManifest.xml:14:19-47
+		ADDED from D:\MyAndroidProjects\Android Paging with Network Handel\app\src\main\AndroidManifest.xml:14:19-47
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\abaya\Desktop\Android-Jetpack-Architecture-Components-master\Android-Jetpack-Architecture-Components-master\Section 5\Paging\app\src\main\AndroidManifest.xml:15:13-19:29
+ADDED from D:\MyAndroidProjects\Android Paging with Network Handel\app\src\main\AndroidManifest.xml:15:13-19:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\abaya\Desktop\Android-Jetpack-Architecture-Components-master\Android-Jetpack-Architecture-Components-master\Section 5\Paging\app\src\main\AndroidManifest.xml:16:17-68
+ADDED from D:\MyAndroidProjects\Android Paging with Network Handel\app\src\main\AndroidManifest.xml:16:17-68
 	android:name
-		ADDED from C:\Users\abaya\Desktop\Android-Jetpack-Architecture-Components-master\Android-Jetpack-Architecture-Components-master\Section 5\Paging\app\src\main\AndroidManifest.xml:16:25-66
+		ADDED from D:\MyAndroidProjects\Android Paging with Network Handel\app\src\main\AndroidManifest.xml:16:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\abaya\Desktop\Android-Jetpack-Architecture-Components-master\Android-Jetpack-Architecture-Components-master\Section 5\Paging\app\src\main\AndroidManifest.xml:18:17-76
+ADDED from D:\MyAndroidProjects\Android Paging with Network Handel\app\src\main\AndroidManifest.xml:18:17-76
 	android:name
-		ADDED from C:\Users\abaya\Desktop\Android-Jetpack-Architecture-Components-master\Android-Jetpack-Architecture-Components-master\Section 5\Paging\app\src\main\AndroidManifest.xml:18:27-74
+		ADDED from D:\MyAndroidProjects\Android Paging with Network Handel\app\src\main\AndroidManifest.xml:18:27-74
 uses-sdk
-INJECTED from C:\Users\abaya\Desktop\Android-Jetpack-Architecture-Components-master\Android-Jetpack-Architecture-Components-master\Section 5\Paging\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from C:\Users\abaya\Desktop\Android-Jetpack-Architecture-Components-master\Android-Jetpack-Architecture-Components-master\Section 5\Paging\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\abaya\Desktop\Android-Jetpack-Architecture-Components-master\Android-Jetpack-Architecture-Components-master\Section 5\Paging\app\src\main\AndroidManifest.xml
+INJECTED from D:\MyAndroidProjects\Android Paging with Network Handel\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\MyAndroidProjects\Android Paging with Network Handel\app\src\main\AndroidManifest.xml
+INJECTED from D:\MyAndroidProjects\Android Paging with Network Handel\app\src\main\AndroidManifest.xml
 MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] C:\Users\abaya\.gradle\caches\transforms-1\files-1.1\lifecycle-extensions-2.0.0.aar\bf6d8f626cfc0ed83b47440cce6819bc\AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] C:\Users\abaya\.gradle\caches\transforms-1\files-1.1\lifecycle-extensions-2.0.0.aar\bf6d8f626cfc0ed83b47440cce6819bc\AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\abaya\.gradle\caches\transforms-1\files-1.1\lifecycle-process-2.0.0.aar\f3f192547d6e636586d649ed06d9c13d\AndroidManifest.xml:20:5-44
@@ -179,16 +179,16 @@ MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\abaya\.gradle\
 MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\abaya\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\87521d684ca36a9f86a6a305f034320e\AndroidManifest.xml:20:5-44
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\abaya\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\c8c988d26a7f97ba3b5eabd6b9ef7671\AndroidManifest.xml:20:5-44
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\abaya\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\c8c988d26a7f97ba3b5eabd6b9ef7671\AndroidManifest.xml:20:5-44
-INJECTED from C:\Users\abaya\Desktop\Android-Jetpack-Architecture-Components-master\Android-Jetpack-Architecture-Components-master\Section 5\Paging\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\abaya\Desktop\Android-Jetpack-Architecture-Components-master\Android-Jetpack-Architecture-Components-master\Section 5\Paging\app\src\main\AndroidManifest.xml
+INJECTED from D:\MyAndroidProjects\Android Paging with Network Handel\app\src\main\AndroidManifest.xml
+INJECTED from D:\MyAndroidProjects\Android Paging with Network Handel\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from C:\Users\abaya\Desktop\Android-Jetpack-Architecture-Components-master\Android-Jetpack-Architecture-Components-master\Section 5\Paging\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\abaya\Desktop\Android-Jetpack-Architecture-Components-master\Android-Jetpack-Architecture-Components-master\Section 5\Paging\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\abaya\Desktop\Android-Jetpack-Architecture-Components-master\Android-Jetpack-Architecture-Components-master\Section 5\Paging\app\src\main\AndroidManifest.xml
+		INJECTED from D:\MyAndroidProjects\Android Paging with Network Handel\app\src\main\AndroidManifest.xml
+		ADDED from D:\MyAndroidProjects\Android Paging with Network Handel\app\src\main\AndroidManifest.xml
+		INJECTED from D:\MyAndroidProjects\Android Paging with Network Handel\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\abaya\Desktop\Android-Jetpack-Architecture-Components-master\Android-Jetpack-Architecture-Components-master\Section 5\Paging\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\abaya\Desktop\Android-Jetpack-Architecture-Components-master\Android-Jetpack-Architecture-Components-master\Section 5\Paging\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\abaya\Desktop\Android-Jetpack-Architecture-Components-master\Android-Jetpack-Architecture-Components-master\Section 5\Paging\app\src\main\AndroidManifest.xml
+		INJECTED from D:\MyAndroidProjects\Android Paging with Network Handel\app\src\main\AndroidManifest.xml
+		ADDED from D:\MyAndroidProjects\Android Paging with Network Handel\app\src\main\AndroidManifest.xml
+		INJECTED from D:\MyAndroidProjects\Android Paging with Network Handel\app\src\main\AndroidManifest.xml
 provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
 ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\abaya\.gradle\caches\transforms-1\files-1.1\lifecycle-process-2.0.0.aar\f3f192547d6e636586d649ed06d9c13d\AndroidManifest.xml:23:9-27:43
 	android:authorities

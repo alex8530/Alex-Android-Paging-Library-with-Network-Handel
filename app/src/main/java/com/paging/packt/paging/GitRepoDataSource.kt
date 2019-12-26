@@ -13,6 +13,8 @@ class GitRepoDataSource : PageKeyedDataSource<Int, GitRepo>() {
 
     val  networkState =  MutableLiveData<NetworkState>()
     val initialLoading  =  MutableLiveData<NetworkState>()
+//
+//    var maxPage= 0
 
     override fun loadInitial(params: LoadInitialParams<Int>, callback: LoadInitialCallback<Int, GitRepo>) {
 
@@ -31,6 +33,7 @@ class GitRepoDataSource : PageKeyedDataSource<Int, GitRepo>() {
 
                     val apiResponse = response.body()!!
                     val responseItems = apiResponse.items
+//                    maxPage=apiResponse.totalCount
 
                     responseItems?.let {
                         callback.onResult(responseItems, null, FIRST_PAGE + 1)
@@ -81,8 +84,12 @@ class GitRepoDataSource : PageKeyedDataSource<Int, GitRepo>() {
                     val apiResponse = response.body()!!
                     val responseItems = apiResponse.items
 
-                    val key = if (apiResponse.totalCount > params.key) params.key + 1 else apiResponse.totalCount
-
+                    //if we add this condition or not >>
+                    //the library will automatic know when the pagelist is finish>>
+                    //if the result return empty array so it know this is last page>>
+//                    or i can this condition to prevent it to request last request to know if list is empty or not
+//                    val key = if (max_page> params.key) params.key + 1 else max_page
+                    val key=params.key + 1
                     responseItems?.let {
                         callback.onResult(responseItems, key)
                     }
